@@ -1,5 +1,5 @@
 *{
-background-image:url('background.jpg');
+background-image:url('background2.jpg');
 margin:0px 0px 0px 0px;
 }
 
@@ -9,7 +9,7 @@ z-index: 1;
 background-image:None;
 width:100%;
 height:60px;
-background-color:rgb(42, 123, 143);
+background-color:rgb(1, 80, 80);
 color:blue;
 }
 
