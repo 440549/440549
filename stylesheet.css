@@ -44,6 +44,48 @@ margin: auto;
 padding-top: 60px;
 }
 
+.dropdown1{
+background-image: None;
+background-color: lemonchiffon;
+height:500px;
+width: 60%;
+}
+
+.dropdown2{
+background-image: None;
+background-color: lemonchiffon;
+height:400px;
+width: 60%;
+}
+
+.dropdown3{
+background-image: None;
+background-color: lemonchiffon;
+height:300px;
+width: 60%;
+}
+
+.subblock{
+background-image: None;
+background-color: lemonchiffon;
+margin:5px
+}
+
+.details{
+background-image: None;
+background-color: lemonchiffon;
+}
+
+.summary{
+background-image: None;
+background-color: lemonchiffon;
+}
+
+.p{
+background-image: None;
+background-color: lemonchiffon;
+}
+
 .block{
 background-image: None;
 background-color: lemonchiffon;
